@@ -1,30 +1,39 @@
-# 📊 Power BI Sales Dashboard Analysis
+# 📊 Sales Dashboard Analysis
 
-This is a comprehensive sales dashboard project developed using **Microsoft Power BI**. The goal of this project is to transform raw sales data into actionable insights, providing a clear overview of the company's financial performance.
+An interactive Power BI dashboard designed to provide a comprehensive overview of company sales performance, helping stakeholders monitor key financial metrics, identify geographical trends, and analyze sales growth over time.
 
-## 🚀 Project Overview
-This project analyzes sales data to identify key performance trends. It features an interactive dashboard that allows users to explore data through various filters, including employees, cities, customers, and sales territories.
+## 🧠 Problem Statement
 
-## 🖼 Dashboard Preview
-![Sales Dashboard](PBIDesktop_3jDCsRY36z.png)
+The sales department aims to:
+* Monitor real-time financial performance (Sales, COGS, and Profit).
+* Evaluate profitability margins across different segments.
+* Identify high-performing geographical regions and sales territories.
+* Understand sales distribution by customer and employee to optimize performance.
 
-## 📈 Key Features
-* **Financial KPIs:** Real-time tracking of Total Sales (20M), COGS (9.96M), Total Profit (9.92M), and Profitability (49.9%).
-* **Interactive Filtering:** Ability to filter data by Employee, City, Customer, and Sales Territory.
-* **Temporal Analysis:** Tracks performance across the years 2013, 2014, 2015, and 2016.
+## ❓ Business Questions
 
-## 🛠 Tools Used
-* **Microsoft Power BI:** (Data Modeling, DAX, and Dashboard Visualization).
+* What is the overall profitability of the company?
+* Which geographical regions are driving the highest sales volume?
+* How has the sales performance evolved between 2013 and 2016?
 
-## 📊 Key Findings
-The analysis highlights the following performance metrics:
-* **Total Sales:** 20M
-* **COGS:** 9.96M
-* **Total Profit:** 9.92M
-* **Profitability Margin:** 49.9%
+## 🔧 Data Analysis & Insights
 
-## 📂 File Structure
-* [View Sales Dashboard PDF](Power%20Bi%20Second%20Project.pdf)
+* [cite_start]**Financial KPIs:** Tracking Total Sales of 20M, with a COGS of 9.96M and a Net Profit of 9.92M[cite: 1, 3, 4, 7].
+* [cite_start]**Profitability Margin:** The overall profitability is currently at 49.9%[cite: 8].
+* [cite_start]**Temporal Tracking:** The dashboard allows for a multi-year analysis spanning from 2013 to 2016 to identify growth trends[cite: 51, 52, 53, 54].
+
+## 📄 Dashboard Pages
+
+The Power BI report includes:
+* [cite_start]**Executive Summary:** A high-level view of Total Sales, Total Profit, and Profitability[cite: 3, 7, 8].
+* [cite_start]**Geographical Insights:** Breakdown of sales by states and cities (e.g., California, Washington, Alaska, etc.)[cite: 43, 44, 45].
+* [cite_start]**Interactive Filtering:** Slicers for Employees, Customers, and Sales Territories to drill down into specific data points[cite: 9, 11, 13, 15].
+
+## 📊 Tools Used
+
+* 🧩 **Power BI Desktop:** Dashboard design, data visualization, and reporting.
+* 📈 **Data Modeling:** DAX measures and interactive slicers.
+* 📁 **Data Source:** Sales records (PDF/Excel data).
 
 ---
-Created by **Ahmed Tamer**.
+👨‍💻 Author: **Ahmed Tamer** – Data Science Learner
